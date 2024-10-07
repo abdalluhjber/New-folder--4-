@@ -1,20 +1,25 @@
 header{
- Background-color: #F0F0F0;
- Padding: 10px;
+position: fixed;
+Background-color: #F0F0F0;
+Padding: 10px;
 }
 main{
  Width: 60%;
  Margin: 20px auto;
  Background-color: #E0E0E0;
- Padding: 15px;
+ Padding: 10px;
+
 }
 aside{
 Width: 30%;
 Margin: 20px auto;
 Background-color: #D0D0D0;
 Padding: 15px;
+left: 10;
 }
 footer{
     Background-color: #C0C0C0;
     Padding: 10px;
+    position: fixed;
+    bottom: 0;
 }
